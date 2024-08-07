@@ -26,4 +26,4 @@ USE `alx_book_store`;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-08-06 21:09:37
+-- Dump completed on 2024-08-06 21:21:03
